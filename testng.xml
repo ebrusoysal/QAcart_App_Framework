@@ -1,0 +1,9 @@
+<suite name="Regression">
+    <test name="Login Tests">
+        <parameter name="platformName" value="Android"/>
+        <parameter name="deviceName" value="NewEmulator"/>
+        <classes>
+            <class name="LoginTest" />
+        </classes>
+    </test>
+</suite>

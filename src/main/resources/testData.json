@@ -1,0 +1,14 @@
+{
+  "validUser": {
+    "email": "validuser@qacart.com",
+    "password": "Pass123"
+  },
+  "wrongPasswordUser": {
+    "email": "validuser@qacart.com",
+    "password": "wrongPassword"
+  },
+  "notExistingUser": {
+    "email": "noUser@abc.com",
+    "password": "12345"
+  }
+}
