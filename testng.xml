@@ -1,7 +1,7 @@
 <suite name="Regression">
     <test name="Login Tests">
-        <parameter name="platformName" value="Android"/>
-        <parameter name="deviceName" value="NewEmulator"/>
+        <parameter name="platformName" value="iOS"/>
+        <parameter name="deviceName" value="iPhone 11"/>
         <classes>
             <class name="LoginTest" />
         </classes>
