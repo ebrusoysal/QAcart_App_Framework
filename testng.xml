@@ -1,9 +1,9 @@
-<suite name="Regression">
-    <test name="Login Tests">
-        <parameter name="platformName" value="iOS"/>
-        <parameter name="deviceName" value="iPhone 11"/>
+<suite name="Storytel">
+    <test name="Storytel App Flow">
+        <parameter name="platformName" value="Android"/>
+        <parameter name="deviceName" value="emulator-5554"/>
         <classes>
-            <class name="LoginTest" />
+            <class name="StorytelTests" />
         </classes>
     </test>
 </suite>

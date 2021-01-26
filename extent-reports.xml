@@ -14,10 +14,10 @@
         <protocol>https</protocol>
 
         <!-- title of the document -->
-        <documentTitle>QAcart Test Report</documentTitle>
+        <documentTitle>Storytel Test Report</documentTitle>
 
         <!-- report name - displayed at top-nav -->
-        <reportName>Automation Report for To-Do App</reportName>
+        <reportName>Automation Report for Storytel App</reportName>
 
         <!-- report headline - displayed at top-nav, after reportHeadline -->
         <reportHeadline></reportHeadline>
