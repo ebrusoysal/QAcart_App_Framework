@@ -4,6 +4,8 @@
 This is an End-to-End test code for Storytel Application. It is written with TestNG. An html report is created after each test with Extent Report.
 Test runs from "testng.xml" file.
 
+Technical Specifications: <b> JAVA, Maven, TestNG </b>
+
 Before running the code make sure you download the .apk file to your Android Emulator and start Appium Server. 
 You can find the Storytel.apk file here. 
 
